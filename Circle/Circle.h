@@ -18,5 +18,5 @@ public:
 	Circle();
 
 private:
-	double radius, ference, area;
+	double c_radius, c_ference, c_area, radius, ference, area;
 };
